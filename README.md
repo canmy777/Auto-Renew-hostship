@@ -1,6 +1,7 @@
 Auto-Renew-hostship
 
 环境变量:
+  
   HS_API_KEY       面板 Client API Key (ptlc_ 开头)           [必填]
   
   HS_SERVER_ID     服务器 identifier, 即 /server/xxx 里那段    [默认 c12fd5d9]
